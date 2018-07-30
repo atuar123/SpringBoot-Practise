@@ -1,2 +1,11 @@
-Date 29/08/2018
+Date 29/07/2018
 1. all controller stayed under the same package of the application.
+
+30/07/2018
+
+In this project showed insert, update, delete and view via postman,
+
+1. how to add data
+2. how to get all data
+3. how to delete data
+4. how to update the individual data
